@@ -5,6 +5,18 @@ import { motion } from "framer-motion";
 
 const offices = [
   {
+    city: "Stockholm",
+    address: "Klarabergsviadukten 63\n101 23 Stockholm, Sweden",
+    phone: "+46 766 920 874",
+    email: "stockholm@greencarrier.com",
+  },
+  {
+    city: "Turkey",
+    address: "Fulya Mh Büyükdere Caddesi, Likör Yanı Sk.\nAkabe Ticaret Merkezi No:80 Kat 2/202 No:78\n34437 Şişli/İstanbul, Türkiye",
+    phone: "+971 52 349 4184",
+    email: "turkey@greencarrier.com",
+  },
+  {
     city: "Houston",
     address: "14 Harbor Commerce Drive, Suite 800\nHouston, TX 77002, USA",
     phone: "+1 (713) 555 0198",
