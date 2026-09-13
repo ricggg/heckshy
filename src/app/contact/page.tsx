@@ -8,31 +8,31 @@ const offices = [
     city: "Stockholm",
     address: "Klarabergsviadukten 63\n101 23 Stockholm, Sweden",
     phone: "+46 766 920 874",
-    email: "stockholm@greencarrier.com",
+    email: "stockholm@hecksherr.com",
   },
   {
     city: "Turkey",
     address: "Fulya Mh Büyükdere Caddesi, Likör Yanı Sk.\nAkabe Ticaret Merkezi No:80 Kat 2/202 No:78\n34437 Şişli/İstanbul, Türkiye",
     phone: "+971 52 349 4184",
-    email: "turkey@greencarrier.com",
+    email: "turkey@hecksherr.com",
   },
   {
     city: "Houston",
     address: "14 Harbor Commerce Drive, Suite 800\nHouston, TX 77002, USA",
     phone: "+1 (713) 555 0198",
-    email: "houston@greencarrier.com",
+    email: "houston@hecksherr.com",
   },
   {
     city: "Rotterdam",
     address: "Waalhaven Oostzijde 12\n3087 BM Rotterdam, Netherlands",
     phone: "+31 10 555 0234",
-    email: "rotterdam@greencarrier.com",
+    email: "rotterdam@hecksherr.com",
   },
   {
     city: "Singapore",
     address: "80 Raffles Place, Level 22\nSingapore 048624",
     phone: "+65 6555 0178",
-    email: "singapore@greencarrier.com",
+    email: "singapore@hecksherr.com",
   },
 ];
 
